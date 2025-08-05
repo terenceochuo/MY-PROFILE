@@ -31,7 +31,7 @@ I’m passionate about “torturing” data until it reveals actionable insights
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](www.linkedin.com/in/jeanochuo)
+[![LinkedIn](https://www.linkedin.com/in/jeanochuo/)
 
 
 
