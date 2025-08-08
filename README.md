@@ -19,7 +19,7 @@ I’m passionate about “torturing” data until it reveals actionable insights
 
 ## 📊 Favorite Projects
 
-- [**Pizza Sales Dashboard**](https://github.com/terenceochuo/E-commerce-powerbi-dashboard): Sales analytics for a pizza business, including dynamic charts and key performance indicators.
+- [**Pizza Sales Dashboard**](https://github.com/terenceochuo/Pizza-Place-Sales): Sales analytics for a pizza business, including dynamic charts and key performance indicators.
 - [**Ecommerce Dashboard**](https://github.com/terenceochuo/E-commerce-powerbi-dashboard): End-to-end dashboard for tracking and visualizing ecommerce metrics.
 
 ---
